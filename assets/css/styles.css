@@ -584,6 +584,7 @@ img {
 
 .achivments__container {
   overflow: initial;
+  height : 500px;
 }
 
 .achivments__content {
